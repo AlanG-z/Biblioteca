@@ -6,7 +6,6 @@
 </script>
 
 <section id="center">
-
   <Counter />
 </section>
 
